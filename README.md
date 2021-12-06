@@ -119,11 +119,3 @@
 <img src="https://komarev.com/ghpvc/?username=Mustaphaibrahim&&style=flat-square" align="center" />
 </div>  
   
-
-<br/>  
-
-<details><summary> Support Me </summary></details>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
