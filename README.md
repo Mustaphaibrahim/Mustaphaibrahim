@@ -127,7 +127,3 @@
 </div>  
   
 
-<br/>  
-
-<details><summary> Support Me </summary></details>
-<br />
