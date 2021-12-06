@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://static.vecteezy.com/system/resources/previews/000/695/795/non_2x/software-development-and-coding-landing-page-vector.jpg" align="center" style="width: 100%" />
+<img src="https://static.vecteezy.com/system/resources/previews/004/578/651/non_2x/cloud-data-analysis-and-server-investment-free-vector.jpg" align="center" style="width: 100%" />
 </div>  
   
 
