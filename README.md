@@ -3,7 +3,7 @@
 </div>  
   
 
-# **<div align="center">I'm Mustapha Ibrahim, a Full-time Software Developer Full-stack Developer👨‍💻 </div>**  
+# **<div align="center">I'm Mustapha Ibrahim, a Software And Full-stack Developer👨‍💻 </div>**  
   
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
