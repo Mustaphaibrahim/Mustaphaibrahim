@@ -5,7 +5,7 @@
 
 # **<div align="center">Mustapha Ibrahim, A Software And Full-Stack Developer </div>**  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?mustaphaibrahim=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustaphaibrahim)](https://github.com/anuraghazra/github-readme-stats)
 
   
 
