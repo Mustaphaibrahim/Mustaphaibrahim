@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://static.vecteezy.com/system/resources/previews/003/433/558/non_2x/padlock-cyber-security-low-poly-wireframe-mesh-free-vector.jpg" align="center" style="width: 100%" />
+<img src="https://www.sodiuswillert.com/hubfs/Images/collaboration-software-development_1200x628px.png" align="center" style="width: 100%" />
 </div>  
   
 
